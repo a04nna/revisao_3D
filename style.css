@@ -1,0 +1,25 @@
+.titulo{
+    text-align: center;
+    color: white;
+    border-color: white;
+    border-style: double;
+    margin-left:20%;
+    margin-right: 18%;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    font-size: 120%;
+}
+
+body{
+    background-color: rgb(156, 30, 30);
+}
+
+.jogo{
+    color: white;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+h2{
+    font-size: 160%;
+}
