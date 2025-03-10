@@ -7,7 +7,7 @@
     margin-right: 18%;
     margin-bottom: 3%;
     margin-top: 3%;
-    font-size: 120%;
+    font-size: 140%;
 }
 
 body{
@@ -21,10 +21,18 @@ body{
 }
 
 h2{
-    font-size: 160%;
+    font-size: 180%;
     color: #ce6868;
 }
 
 h1{
     color: #160303;
+}
+
+h3{
+    font-size: 130%;
+}
+
+img{
+    size: 50%;
 }
