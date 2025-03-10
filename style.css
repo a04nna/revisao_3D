@@ -1,7 +1,7 @@
 .titulo{
     text-align: center;
-    color: white;
-    border-color: white;
+    color: #410c0c;
+    border-color: #410c0c;
     border-style: double;
     margin-left:20%;
     margin-right: 18%;
@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: rgb(156, 30, 30);
+    background-color: #9c1e1e;
 }
 
 .jogo{
