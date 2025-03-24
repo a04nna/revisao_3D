@@ -18,15 +18,17 @@ body{
     color: #5e1212;
     text-align: center;
     margin-bottom: 3%;
+    border-style: dashed;
+    border-color: white;
+}
+
+h1{
+    color: #ffffff;
 }
 
 h2{
     font-size: 180%;
     color: rgb(255, 255, 255);
-}
-
-h1{
-    color: #ffffff;
 }
 
 h3{
@@ -38,6 +40,7 @@ h4{
     color: #e68686;
     margin-left:30%;
     margin-right: 30%;
+    margin-bottom: 5%;
     font-size: 150%;
 }
 
